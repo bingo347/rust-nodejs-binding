@@ -1,0 +1,25 @@
+{
+  "name": "rust-addon-helper",
+  "version": "0.1.0",
+  "description": "development helper for write native addons in Rust with nodejs-binding crate",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bingo347/rust-nodejs-binding.git"
+  },
+  "keywords": [
+    "rust",
+    "binding",
+    "native",
+    "addons"
+  ],
+  "author": "Dmitriy Belyaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bingo347/rust-nodejs-binding/issues"
+  },
+  "homepage": "https://github.com/bingo347/rust-nodejs-binding#readme"
+}

@@ -1,0 +1,5 @@
+/target
+**/*.rs.bk
+Cargo.lock
+/addon-helper/node_modules
+/addon-helper/lib
